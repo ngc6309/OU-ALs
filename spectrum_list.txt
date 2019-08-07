@@ -1,0 +1,6 @@
+# List of spectra to be processed
+
+040-orig.csv
+080-orig.csv
+120-orig.csv
+240.csv
